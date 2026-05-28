@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "username": "shruti jais ",
+      "password": "12345",
+      "role": "user"
+    },
+    {
+      "username": "shruti jais ",
+      "password": "12345",
+      "role": "admin"
+    },
+    {
+      "username": "admin ",
+      "password": "admin12345",
+      "role": "admin"
+    },
+    {
+      "username": "admin ",
+      "password": "admin1234",
+      "role": "Admin"
+    },
+    {
+      "username": "shruti jais ",
+      "password": "12345",
+      "role": "User"
+    }
+  ],
+  "items": [
+    {
+      "title": "Wallet",
+      "category": "Accessories",
+      "location": "Library Block A ",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "description": "Black wallet found near library with student ID card.",
+      "status": "Found"
+    },
+    {
+      "title": "Mobile Phone ",
+      "category": "Electronics ",
+      "location": "cafeteria",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "description": "Lost Samsung phone near cafeteria table.",
+      "status": "Lost"
+    }
+  ]
+}
